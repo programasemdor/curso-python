@@ -1,0 +1,11 @@
+1. Os seguintes nomes de variáveis são válidos?
+    a) NOTA             S
+    b) nota2            S
+    c) AH!              N
+    d) SALA115          S
+    e) Xa3              S
+    f) "ABC"            N
+    g) km/h             N
+    h) 3lola            N
+    i) var-teste        N
+    j) nome_usuario     S

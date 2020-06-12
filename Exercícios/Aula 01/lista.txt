@@ -12,5 +12,5 @@
 
 2. Crie um sistema em Python que mostra a soma e a média aritmética de dois números informados pelo usuário.
 
-Fórmula da Média Aritmética de 2 números (n1 e n2): 
+Fórmula da Média Aritmética de 2 números (n1 e n2):
 (n1 + n2) / 2
