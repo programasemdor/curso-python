@@ -1,0 +1,4 @@
+1. Crie uma matriz 4x4 e preencha com os números da sequência de Fibonacci.
+
+Dica: A sequência de Fibonacci é uma sequência numérica inteira que, iniciando dos números 0 e 1, cada termo seguinte constitui a soma dos dois anteriores.
+Exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, etc.
